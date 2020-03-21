@@ -1,0 +1,5 @@
+Git hubdan fayllari pull elemek ucun gitbash da oldugumuz dosyada git pull yazmagmiz kifayetdir.
+git branch yazaraq branchlarmza baxa bilerik
+git branch --all yazaraq repositorymzde olan branchlarada baxa bilerik
+git branch bachelor yazaraq yeni branch yarada bilerik 
+git checkout bachelor yazaraq bachelor branchna kececiyik
